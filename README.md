@@ -29,7 +29,7 @@ Python
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/945841738147307600/1019264138838556763/unknown.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/1018774282643451965/1019347715966124092/unknown.png)
 
 
 
